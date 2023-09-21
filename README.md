@@ -33,3 +33,7 @@ Follow these simple steps to integrate the Persian Date Range Picker into your p
        .pDatepicker({
          // Configuration options
        });
+****************************** ***************************** **************************** ****************************** *************************** ***************************
+Enjoy using the Persian Date Range Picker in your projects and streamline date range selection for your users! If you find this library helpful, don't forget to give it a star ⭐.
+
+Happy coding!
